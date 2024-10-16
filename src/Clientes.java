@@ -3,6 +3,7 @@ public class Clientes  {
     private String nombre;
     private int telefono;
 /**
+*probando cambios
     * @param nombre indica el nombre
      * @param telefono indica el telefono
  */
